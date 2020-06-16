@@ -1,4 +1,4 @@
-# bestK-Knn
+# bestK-kNN
 Py program to find the most optimal K hyperparameter to run self-made kNN, optimal is chosen based on the lowest loss of accuracy.
 ## Usage ##
 
