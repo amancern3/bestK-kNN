@@ -22,5 +22,5 @@ most_common_k(arr)
 ```
 
 <p align="center">
-  <img width="360" height="260" src="bestK.PNG">
+  <img src="bestK.PNG">
 </p>
